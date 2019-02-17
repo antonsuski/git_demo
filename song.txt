@@ -1,1 +1,2 @@
-firs string of file
+firs line of file song.txt
+second line of file song.txt
