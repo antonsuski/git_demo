@@ -1,2 +1,3 @@
 firs line of file song.txt
 second line of file song.txt
+threed line of the file
