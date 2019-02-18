@@ -1,3 +1,7 @@
 firs line of file song.txt
 second line of file song.txt
-lol
+<<<<<<< HEAD
+added new raw
+=======
+threed line of the file
+>>>>>>> cdc28019443e4f847e21c2bcd4d4c35f3fb9e2a0
